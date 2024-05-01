@@ -1,0 +1,14 @@
+C:\Users\Ali\source\repos\day 3 lab\day 3 lab\bin\Debug\net8.0\day 3 lab.exe
+C:\Users\Ali\source\repos\day 3 lab\day 3 lab\bin\Debug\net8.0\day 3 lab.deps.json
+C:\Users\Ali\source\repos\day 3 lab\day 3 lab\bin\Debug\net8.0\day 3 lab.runtimeconfig.json
+C:\Users\Ali\source\repos\day 3 lab\day 3 lab\bin\Debug\net8.0\day 3 lab.dll
+C:\Users\Ali\source\repos\day 3 lab\day 3 lab\bin\Debug\net8.0\day 3 lab.pdb
+C:\Users\Ali\source\repos\day 3 lab\day 3 lab\obj\Debug\net8.0\day 3 lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\source\repos\day 3 lab\day 3 lab\obj\Debug\net8.0\day 3 lab.AssemblyInfoInputs.cache
+C:\Users\Ali\source\repos\day 3 lab\day 3 lab\obj\Debug\net8.0\day 3 lab.AssemblyInfo.cs
+C:\Users\Ali\source\repos\day 3 lab\day 3 lab\obj\Debug\net8.0\day 3 lab.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\day 3 lab\day 3 lab\obj\Debug\net8.0\day 3 lab.dll
+C:\Users\Ali\source\repos\day 3 lab\day 3 lab\obj\Debug\net8.0\refint\day 3 lab.dll
+C:\Users\Ali\source\repos\day 3 lab\day 3 lab\obj\Debug\net8.0\day 3 lab.pdb
+C:\Users\Ali\source\repos\day 3 lab\day 3 lab\obj\Debug\net8.0\day 3 lab.genruntimeconfig.cache
+C:\Users\Ali\source\repos\day 3 lab\day 3 lab\obj\Debug\net8.0\ref\day 3 lab.dll
